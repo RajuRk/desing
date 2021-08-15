@@ -1,0 +1,28 @@
+body{
+    background-color: #cef3ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    width: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+section{
+    width: 300px;
+    margin: 0 auto;
+}
+.container{
+    background-color: #fff;
+    text-align: center;
+    position: relative;
+    margin-top: 25%;
+    border-radius: 15px;
+    box-shadow: 0px 0px 6px 1px #777;
+}
+p{
+    padding: 0 10px;
+    color: #828282;
+    line-height: 1.5em;
+}
+.image-with-content{
+    padding-bottom: 5px;
+}
